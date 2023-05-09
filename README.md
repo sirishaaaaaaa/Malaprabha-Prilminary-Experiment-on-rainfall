@@ -1,4 +1,4 @@
-# Malaprabha-Prilminary-Experiment-on-rainfall
+# Malaprabha-Priliminary-Experiment-on-rainfall
 This project focusses on predicting the future water availability in the dry regions of Karnataka, in view of the expected Drought and Extreme Rainfall in the coming decade, by analysing the Malaprabha Catchment region
 
 
